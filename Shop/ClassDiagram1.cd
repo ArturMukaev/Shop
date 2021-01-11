@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Shop.Accesso">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BDUIIBYUAiAAgBQAAIKCAYbDCAAQhAAABCB0Y4DWEgA=</HashCode>
+      <FileName>Accesso.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop.Basket">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gCQAABQRAyAAABABAICABAJCACAAgAAAAEA4AYCEAAA=</HashCode>
+      <FileName>Basket.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop.Codes">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BDUIIBYUAiAAgBQAAIKCAYbDAAAQhAAABCA0Y4D2EgA=</HashCode>
+      <FileName>Codes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop.Consoles">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BDUIIBYUAiAAgBQAAIKCAYbDCAAQgAAABCB0Q4D2EgA=</HashCode>
+      <FileName>Consoles.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop.DB">
+    <Position X="16.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAAAAAABAAAAAAAQAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DB.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop.Find">
+    <Position X="14.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ADUIIBYUAiAAABQAAIKCAYLDCAAAhAAABAB0Y4DmEgA=</HashCode>
+      <FileName>Find.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop.MainPage">
+    <Position X="12.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BDUIIBIUAiAAgBQAAIKCAYbDCAAQhAAABCBkY4DyEgA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop.Games">
+    <Position X="11" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BDUIIBYUAiAAgBQAAIKCAIbDCAAQhAAABCB0Y4D2EAA=</HashCode>
+      <FileName>Games.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop.Order">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAQAAASAAABCAAACAQABTIAIYAAACEGAwAQAAEAg=</HashCode>
+      <FileName>Order.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop.Program">
+    <Position X="16.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop.Souvenirs">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BDUIIBYUAiAAgBQAAIKAAYbDCAAQhAAAACB0Y4D2EgA=</HashCode>
+      <FileName>Souvenirs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
